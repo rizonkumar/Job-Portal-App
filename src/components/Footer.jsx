@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <>
       <div className="p-5 text-center bg-gray-800 mt-5">
-        Made with love by Rizon Rahi
+        Made with ❤️ by Rizon Rahi
       </div>
     </>
   );
