@@ -5,7 +5,7 @@ import LandingPage from "@/pages/Landing.jsx";
 import OnBoarding from "@/pages/OnBoarding.jsx";
 import JobListing from "@/pages/JobListing.jsx";
 import JobPage from "@/pages/Job.jsx";
-import JobPost from "@/pages/JobPost.jsx";
+import JobPost from "@/pages/PostJob.jsx";
 import SavedJob from "@/pages/SavedJob.jsx";
 import MyJob from "@/pages/MyJob.jsx";
 import { ThemeProvider } from "@/components/theme-provider.jsx";
