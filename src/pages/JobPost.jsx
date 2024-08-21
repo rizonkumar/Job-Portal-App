@@ -1,5 +1,5 @@
 const JobPost = () => {
-  return <div>Landing</div>;
+  return <div></div>;
 };
 
 export default JobPost;
